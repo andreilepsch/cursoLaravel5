@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"owner":"www-data","group":"www-data","mount_options":["dmode=777","fmode=666"],"guestpath":"/var/www","hostpath":"/Users/andreilepsch/dev/cursoLaravel5/www","disabled":false},"/vagrant":{"owner":"vagrant","group":"vagrant","guestpath":"/vagrant","hostpath":"/Users/andreilepsch","disabled":false}}}
